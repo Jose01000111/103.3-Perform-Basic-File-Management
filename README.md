@@ -17,13 +17,19 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔹 Create a working directory and some sample files:
 
+![mmjXHvl](https://github.com/user-attachments/assets/4fb790d0-1323-4c47-a73a-9bb271035cf5)
+
 🔹 Move files to appropriate folders:
+
+![M55t96e](https://github.com/user-attachments/assets/d6cd267d-0016-48e2-8aba-73fbfc824577)
 
 ## 2️⃣ 🔹 Copying Files and Directories
 
 🔹 Copy a file to another directory:
 
 🔹 Copy a directory recursively:
+
+![B0Yn1Jy](https://github.com/user-attachments/assets/d31c9193-577d-48f9-84a6-cc9bcf49e2f1)
 
 ## 3️⃣ 🔹 Removing Files and Directories
 
@@ -33,6 +39,8 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔹 Create and remove an empty directory:
 
+![kteDDmo](https://github.com/user-attachments/assets/2fbbd056-6337-4f4b-b255-056fcb5ff54c)
+
 ## 4️⃣ 🔹 Using Wildcards (Globbing)
 
 🔹 Create more files:
@@ -41,6 +49,8 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔹 Remove all .png files:
 
+![meRWWTp](https://github.com/user-attachments/assets/71369b1a-5b35-404b-9250-cc8bcb242dc2)
+
 ## 5️⃣ 🔹 Finding Files Based on Criteria
 
 🔹 Find all .conf files:
@@ -48,6 +58,8 @@ I’ve included some helpful links to guide you through the lab and for studying
 🔹 Find files modified within the last 1 minute:
 
 🔹 Find files over 1MB:
+
+![lbN8XtO](https://github.com/user-attachments/assets/80b815bd-ee9a-4038-83fe-bf802f1b88a6)
 
 ## 6️⃣ 🔹 Archiving and Compression
 
@@ -60,6 +72,8 @@ I’ve included some helpful links to guide you through the lab and for studying
 🔹 Use cpio to archive files:
 
 🔹 Use dd to copy raw data:
+
+![aVkrpZf](https://github.com/user-attachments/assets/bab1704d-122e-4ff0-a1f9-1a0150df6741)
 
 ## 📚 What I Learned
 Through this lab, I gained hands-on experience with essential file management tasks in Linux. I learned how to structure directories, move and copy files intelligently, search using find, and use archiving and compression tools to manage data. These are foundational skills I’ll use in nearly every Linux admin role. 🧑‍💻✨
