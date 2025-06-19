@@ -7,9 +7,9 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [LPIC-1 EXAM OBJECTIVE 103.3](https://www.lpi.org/our-certifications/exam-101-102-objectives/#103.3_Perform_basic_file_management)
 
-[OBJ. 103.3 NOTES]()
+[OBJ. 103.3 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/EW9EKUrhENhFpgPSJuLSuLIBe3caqzPuIWgJgxNduZ3GZA?e=RmSmeP)
 
-[OBJ. 103.3 LAB]()
+[OBJ. 103.3 LAB](https://1drv.ms/w/c/354f1c8d534fbced/ERcARqadLYZJr-neFczanOYBhTo6pB7Ufs5nOegWB1fmSQ?e=t4FJlb)
 
 ---
 
